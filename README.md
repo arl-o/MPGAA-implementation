@@ -7,7 +7,6 @@ MPGAA\*  is from **Reusing Previously Found A Paths for Fast Goal-Directed Navig
 
 [AAAI publication page, including full pdf.](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/10053)
 
-An example maze solution shown below: 
-
+An example of the algorithm's solution for an unknown maze is shown below: 
 
 ![Example maze solution](https://raw.githubusercontent.com/arl-o/MPGAA-implementation/master/ezgif-2-8a1929c602.gif)
