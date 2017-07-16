@@ -1,6 +1,6 @@
 # MPGAA-implementation
 
-A quick example implementation of MPGAA* in python, for a 3-d discrete space using the manhattan distance metric.
+A quick (and messy) example implementation of MPGAA* in python, for a 3-d discrete space using the manhattan distance metric.
 
 MPGAA\*  is from **Reusing Previously Found A Paths for Fast Goal-Directed Navigation in Dynamic Terrain**, by
 *Carlos Hernandez, Roberto Asin, Jorge A Baier.*
