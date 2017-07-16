@@ -1,2 +1,10 @@
 # MPGAA-implementation
-A quick+dirty example implementation of MPGAA* in python
+
+A quick example implementation of MPGAA* in python, for a 3-d discrete space using the manhattan distance metric.
+
+MPGAA\*  is from **Reusing Previously Found A Paths for Fast Goal-Directed Navigation in Dynamic Terrain**, by
+*Carlos Hernandez, Roberto Asin, Jorge A Baier.*
+
+[AAAI publication page, including full pdf.](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/10053)
+
+An example maze solution shown below: 
